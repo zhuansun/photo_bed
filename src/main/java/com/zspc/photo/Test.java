@@ -1,9 +1,8 @@
-package pers.adlered.picuang;
+package com.zspc.photo;
 
-import pers.adlered.picuang.access.HttpOrHttpsAccess;
+import com.zspc.photo.access.HttpOrHttpsAccess;
 
 import java.io.BufferedInputStream;
-import java.util.Map;
 
 /**
  * <h3>picuang</h3>

@@ -1,9 +1,9 @@
-package pers.adlered.picuang.prop;
+package com.zspc.photo.prop;
 
+import com.zspc.photo.controller.UploadController;
+import com.zspc.simplecurrentlimiter.main.SimpleCurrentLimiter;
 import org.springframework.stereotype.Component;
-import pers.adlered.picuang.controller.UploadController;
-import pers.adlered.picuang.log.Logger;
-import pers.adlered.simplecurrentlimiter.main.SimpleCurrentLimiter;
+import com.zspc.photo.log.Logger;
 
 import java.io.*;
 import java.util.Properties;

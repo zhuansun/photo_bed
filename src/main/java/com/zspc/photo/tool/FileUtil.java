@@ -1,6 +1,4 @@
-package pers.adlered.picuang.tool;
-
-import org.springframework.util.ResourceUtils;
+package com.zspc.photo.tool;
 
 import javax.servlet.http.HttpServletResponse;
 import java.io.*;

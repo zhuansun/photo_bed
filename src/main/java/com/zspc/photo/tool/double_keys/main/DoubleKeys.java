@@ -1,6 +1,6 @@
-package pers.adlered.picuang.tool.double_keys.main;
+package com.zspc.photo.tool.double_keys.main;
 
-import pers.adlered.picuang.tool.double_keys.storage.DoubleKeysStorage;
+import com.zspc.photo.tool.double_keys.storage.DoubleKeysStorage;
 
 import java.util.ArrayList;
 import java.util.List;

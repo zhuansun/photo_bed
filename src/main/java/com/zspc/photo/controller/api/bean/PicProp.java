@@ -1,4 +1,4 @@
-package pers.adlered.picuang.controller.api.bean;
+package com.zspc.photo.controller.api.bean;
 
 /**
  * <h3>picuang</h3>

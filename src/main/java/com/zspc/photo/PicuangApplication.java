@@ -1,4 +1,4 @@
-package pers.adlered.picuang;
+package com.zspc.photo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

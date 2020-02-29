@@ -1,4 +1,4 @@
-package pers.adlered.picuang;
+package com.zspc.photo;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

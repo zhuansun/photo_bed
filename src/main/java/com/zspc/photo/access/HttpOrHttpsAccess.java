@@ -1,4 +1,4 @@
-package pers.adlered.picuang.access;
+package com.zspc.photo.access;
 
 import javax.net.ssl.HttpsURLConnection;
 import javax.net.ssl.SSLContext;

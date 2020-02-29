@@ -1,6 +1,6 @@
-package pers.adlered.simplecurrentlimiter.cache;
+package com.zspc.simplecurrentlimiter.cache;
 
-import pers.adlered.simplecurrentlimiter.cache.pair.CachePair;
+import com.zspc.simplecurrentlimiter.cache.pair.CachePair;
 
 import java.util.HashMap;
 import java.util.Map;

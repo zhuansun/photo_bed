@@ -1,4 +1,4 @@
-package pers.adlered.picuang.result;
+package com.zspc.photo.result;
 
 public class Result<T> {
     private Integer code = 404;

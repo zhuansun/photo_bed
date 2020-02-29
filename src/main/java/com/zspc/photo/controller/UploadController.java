@@ -1,18 +1,18 @@
-package pers.adlered.picuang.controller;
+package com.zspc.photo.controller;
 
+import com.zspc.photo.result.Result;
+import com.zspc.simplecurrentlimiter.main.SimpleCurrentLimiter;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.multipart.MultipartFile;
-import pers.adlered.picuang.access.HttpOrHttpsAccess;
-import pers.adlered.picuang.log.Logger;
-import pers.adlered.picuang.prop.Prop;
-import pers.adlered.picuang.result.Result;
-import pers.adlered.picuang.tool.IPUtil;
-import pers.adlered.picuang.tool.ToolBox;
-import pers.adlered.picuang.tool.double_keys.main.DoubleKeys;
-import pers.adlered.simplecurrentlimiter.main.SimpleCurrentLimiter;
+import com.zspc.photo.access.HttpOrHttpsAccess;
+import com.zspc.photo.log.Logger;
+import com.zspc.photo.prop.Prop;
+import com.zspc.photo.tool.IPUtil;
+import com.zspc.photo.tool.ToolBox;
+import com.zspc.photo.tool.double_keys.main.DoubleKeys;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpSession;

@@ -1,4 +1,4 @@
-package pers.adlered.picuang.log;
+package com.zspc.photo.log;
 
 /**
  * <h3>picuang</h3>

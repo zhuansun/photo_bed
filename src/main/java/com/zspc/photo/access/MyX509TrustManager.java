@@ -1,4 +1,4 @@
-package pers.adlered.picuang.access;
+package com.zspc.photo.access;
 
 /**
  * <h3>picuang</h3>

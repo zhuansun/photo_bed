@@ -1,12 +1,12 @@
-package pers.adlered.picuang.controller.admin;
+package com.zspc.photo.controller.admin;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.util.ClassUtils;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.ModelAndView;
-import pers.adlered.picuang.prop.Prop;
-import pers.adlered.picuang.tool.ToolBox;
+import com.zspc.photo.prop.Prop;
+import com.zspc.photo.tool.ToolBox;
 
 /**
  * <h3>picuang</h3>

@@ -1,4 +1,4 @@
-package pers.adlered.simplecurrentlimiter.cache.pair;
+package com.zspc.simplecurrentlimiter.cache.pair;
 
 /**
  * <h3>SimpleCurrentLimiter</h3>
